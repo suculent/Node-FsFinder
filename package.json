@@ -27,7 +27,7 @@
 		"escape-regexp": "~0.0.1",
 		"moment": "^2.29.4",
 		"operator-compare": "~1.0.1",
-		"q": "~1.0.0"
+		"q": "~2.0.3"
 	},
 	"overrides": {
 		"ansi-regex": "5.0.1",
