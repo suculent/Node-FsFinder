@@ -15,7 +15,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:Carrooi/Node-FsFinder.git"
+		"url": "git@github.com:suculent/Node-FsFinder.git"
 	},
 	"license": "MIT",
 	"engines": {
@@ -23,9 +23,9 @@
 	},
 	"main": "./lib/Finder.js",
 	"dependencies": {
-		"async": "2.6.4",
+		"async": "3.2.6",
 		"escape-regexp": "~0.0.1",
-		"moment": "^2.29.4",
+		"moment": "^2.30.1",
 		"operator-compare": "~1.0.1",
 		"q": "~2.0.3"
 	},
